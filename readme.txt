@@ -1,3 +1,28 @@
+Tested on Windows 11
+
+Python version
+3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]
+Version info.
+3.13.5
+
+Python version
+3.14.0b3 (tags/v3.14.0b3:26d485d, Jun 17 2025, 16:21:24) [MSC v.1943 64 bit (AMD64)]
+Version info.
+sys.version_info(major=3, minor=14, micro=0, releaselevel='beta', serial=3)
+3.14.0b3
+
+2.3.1
+
+Tested on Linux Ubuntu 24.04.1 LTS 
+
+Python version
+3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+Version info.
+sys.version_info(major=3, minor=12, micro=3, releaselevel='final', serial=0)
+3.12.3
+
+2.1.3
+
 macOS system
 
 Python version
